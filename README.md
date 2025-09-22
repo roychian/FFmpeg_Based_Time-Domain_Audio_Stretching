@@ -48,6 +48,4 @@
 
 3. 輸出檔案會自動生成在專案目錄下。
 
-3. Processed output files will be generated in the project directory.
-
 ---
